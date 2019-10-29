@@ -10,6 +10,7 @@ function App() {
         <p>
           This is our live code for our first Web App
         </p>
+        <hr />
         <a
           className="App-link"
           href="https://strive.school"
