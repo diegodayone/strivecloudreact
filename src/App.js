@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is our live code for our first Web App
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://strive.school"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Learn more about strive.school
         </a>
       </header>
     </div>
